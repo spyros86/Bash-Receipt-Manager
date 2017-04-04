@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Spyridwn Vlachos
-#Askhsh 2 Syspro 2011
-
 
 #synarthseis pou ylopoiountai me awk.
 #se ksexwristo fakelo gia eukolia anagnwshs.

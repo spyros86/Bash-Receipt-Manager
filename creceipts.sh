@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Spyridwn Vlachos 
-#Askhsh 2 Syspro 2011
 
 
 source functions.sh #file me functions pou prepei na einai eite sto PATH eite sto idio directory me to paron arxeio. Edw to deutero isxyei.
